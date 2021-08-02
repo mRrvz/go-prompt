@@ -1,10 +1,14 @@
 # Change Log
 
-## Unreleased
+## v0.3.0 (2021/08/03)
 
 ### Added
 
-* Reverse search
+* Add reverse search
+
+### Fixed
+
+* Correct display when inserting multiline code snippets  
 
 ## v0.2.3 (2018/10/25)
 
